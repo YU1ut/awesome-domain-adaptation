@@ -348,6 +348,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Weakly-Supervised DA
 
 **Conference**
+- Divergence Optimization for Noisy Universal Domain Adaptation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Divergence_Optimization_for_Noisy_Universal_Domain_Adaptation_CVPR_2021_paper.pdf)
 - Towards Accurate and Robust Domain Adaptation under Noisy Environments [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/0314.pdf)
 - Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf)
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf)
